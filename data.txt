@@ -1,0 +1,4 @@
+name, date, time, reason
+Bob, 2018-01-01, 10:00, sick
+Mary, 2018-01-01, 10:00, sick
+Freddy, 2018-01-01, 10:00, sick
